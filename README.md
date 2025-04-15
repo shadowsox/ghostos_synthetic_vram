@@ -1,0 +1,1 @@
+# ghostos_synthetic_vram
